@@ -6,7 +6,7 @@ The application was built as a practice project for a responsive web design cour
 
 ## Features
 
-- Naturals and enharmonics housed in a green keyframe. Elegant, fit for the new Chopin. Just don't try to get a note out of it, not for it. Just for the looks. 
+- Naturals and enharmonics housed in a green keyframe. Just don't try to get a note out of it, not for it, you silly.
 
 ## Technologies
 
