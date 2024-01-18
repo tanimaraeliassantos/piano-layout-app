@@ -1,12 +1,12 @@
 # PIANO APP
 
-The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a piano with black and white keys, a green background and a logo.
+The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a piano with black and white keys, a green background, and a logo.
 
 ![piano app - Tanimara Elias Santos](piano-app-showcase.gif)
 
 ## Features
 
-- Hats, eyes, guitar, chords, but I will just leave it open to interpretation.
+- Naturals and enharmonics housed in a green keyframe. Elegant, fit for the new Chopin. Just don't try to get a note out of it, not for it. Just for the looks. 
 
 ## Technologies
 
