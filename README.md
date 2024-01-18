@@ -6,7 +6,7 @@ The application was built as a practice project for a responsive web design cour
 
 ## Features
 
-- Hats, eyes, guitar, chords, but I will just leave it at open to interpretation.
+- Hats, eyes, guitar, chords, but I will just leave it open to interpretation.
 
 ## Technologies
 
